@@ -1,1 +1,83 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "datr",
+        "value": "cGQYaY1A4wwdE4TCS_oyPvlK",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "sb",
+        "value": "7ygbaZHIaEThFbRFHWdpT0Hk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x945",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100091943424141",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "xs",
+        "value": "31%3As1K03lJMpVP67w%3A2%3A1763388072%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.925Z",
+        "lastAccessed": "2025-11-17T14:25:49.925Z"
+    },
+    {
+        "key": "fr",
+        "value": "0NXuEBEh4kLcp8CLI.AWf5flguSOF5FCj5OHtkozBOcytDdEc_ft2JAplEl24Lu30EyXw.BpGyjv..AAA.0.0.BpGyqr.AWdPR92Bd5JdU32Q_OsYpkg-UDk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.926Z",
+        "lastAccessed": "2025-11-17T14:25:49.926Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1763389514715%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-17T14:25:49.926Z",
+        "lastAccessed": "2025-11-17T14:25:49.926Z"
+    }
+]
